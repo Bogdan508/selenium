@@ -2,6 +2,7 @@ import math
 from selenium import webdriver
 import time
 
+
 try:
     link = "http://suninjuly.github.io/find_link_text"
     browser = webdriver.Chrome()

@@ -1,6 +1,7 @@
 from selenium import webdriver
 import time
 
+
 link = "http://suninjuly.github.io/simple_form_find_task.html"
 
 try:

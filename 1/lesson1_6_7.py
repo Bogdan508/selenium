@@ -1,6 +1,7 @@
 from selenium import webdriver
 import time
 
+
 try:
     browser = webdriver.Chrome()
     browser.get("http://suninjuly.github.io/huge_form.html")
